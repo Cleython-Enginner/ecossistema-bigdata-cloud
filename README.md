@@ -1,5 +1,7 @@
-# DIO-LiveCoding-AWS-BigData
-Repositório de cógido do Dio Live Coding com AWS EMR e Python
+# Projeto realizado no Bootcamp  Cognizant Cloud Data Engineer na plataforma da DIO
+
+##  Ecossitema de Big Data na Cloud AWS - Algoritmo de Extração e Contabilização de Palavras
+
 Neste repositório há os arquivos de configuração e execução de análise de dados.
 
 ## Instruções
